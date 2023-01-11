@@ -6,4 +6,5 @@ _apt install binutils_
 _apt download package_name_
 # Extracting
 _ar x *.deb_
+
 _tar xvf data.tar.xz_
